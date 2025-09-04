@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Studentarium Backend README</title>
-</head>
 <body>
   <h1>Studentarium Backend</h1>
   <p>This is the backend for the Studentarium application. It was created using <strong>Node.js</strong>, <strong>Express</strong>, <strong>TypeScript</strong> and <strong>PostgreSQL</strong>.</p>
